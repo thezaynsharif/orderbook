@@ -1,0 +1,15 @@
+# CMake build output
+cmake-build-debug/
+cmake-build-release/
+build/
+
+# CLion IDE files
+.idea/
+
+# Compiled objects and binaries
+*.o
+*.a
+*.out
+
+# macOS
+.DS_Store
