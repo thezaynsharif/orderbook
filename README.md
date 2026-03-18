@@ -101,7 +101,7 @@ Each `Trade` carries two `TradeInfo` records — one for the bid side and one fo
 **Requirements:** CMake 3.14+, a C++20-capable compiler (GCC 11+, Clang 13+, MSVC 19.29+)
 
 ```bash
-git clone https://github.com/<your-username>/orderbook.git
+git clone https://github.com/thezaynsharif/orderbook.git
 cd orderbook
 cmake -B cmake-build-debug -DCMAKE_BUILD_TYPE=Debug
 cmake --build cmake-build-debug
